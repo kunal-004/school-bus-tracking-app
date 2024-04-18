@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('live location tracker'),
+        title: Text('School Bus tracker'),
       ),
       body: Column(
         children: [

@@ -3,6 +3,10 @@
 - Enable your live location and track it live in other devices.<br><br>
 
 
+## Add API key 
+- AndriodManifest.xml
+- google-servies.json
+
 ## Links used in project:
 
 - [Cloud Console](https://bit.ly/3qLUjY9)
